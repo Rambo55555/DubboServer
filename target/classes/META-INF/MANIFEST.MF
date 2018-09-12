@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: dubbotest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Rambo
+Implementation-Vendor-Id: com.rambo
+Build-Jdk: 1.8.0_172
+Implementation-URL: http://projects.spring.io/spring-boot/dubbotest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
